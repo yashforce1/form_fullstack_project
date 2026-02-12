@@ -94,3 +94,9 @@ Once the server is running, it will be ready to accept form submissions.
 
 **Yash Srivastav**
 
+
+
+create - post 
+update - put 
+read - get 
+delete - delete 
