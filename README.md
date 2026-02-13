@@ -92,9 +92,7 @@ Once the server is running, it will be ready to accept form submissions.
 
 ## 👤 Author
 
-**Yash Srivastav**
-
-
+**Crud Operations**
 
 create - post 
 update - put 
